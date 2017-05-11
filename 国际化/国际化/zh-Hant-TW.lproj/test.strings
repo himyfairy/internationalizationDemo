@@ -1,0 +1,10 @@
+/* 
+  test.strings
+  国际化
+
+  Created by qilu on 2017/5/11.
+  Copyright © 2017年 qilu. All rights reserved.
+*/
+
+"text1" = "超級撒開了出來看時間長了時間";
+"question1" = "這是什麽？";

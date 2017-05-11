@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  国际化
+
+  Created by qilu on 2017/5/11.
+  Copyright © 2017年 qilu. All rights reserved.
+*/
+
+"text" = "Всем доброе утро";
+"question" = "Что это?";
